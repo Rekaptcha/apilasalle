@@ -1,0 +1,21 @@
+{
+    "name": "raquelgonzalezrodriguez/APILaSalle",
+    "description": "Paquete de prueba. Práctica La Salle",
+    "type": "package",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Raquel González Rodríguez",
+            "email": "rgonza06@ucm.es",
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "raquelgonzalezrodriguez\\APILaSalle\\": "src/"
+        }
+    }
+}
